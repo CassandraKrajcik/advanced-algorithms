@@ -1,5 +1,5 @@
 {
-    "fileOptions": {
+*   "fileOptions": {
       "excludeSearchPatterns": [
         "**/*.Docs.csproj",
         "**/*.DotSettings",
@@ -10,4 +10,4 @@
         "**/*.Tests.csproj"
       ]
     }
-  }
+  } 
